@@ -1,0 +1,10 @@
+#ddddd
+
+
+t1 = input("enter Nifty T-1 close")
+t2 = input("enter Nifty T-1 close")
+t3 = input("enter Nifty T-1 close")
+
+average = (float(t1) + float(t2) + float(t3))/3
+print(average)
+

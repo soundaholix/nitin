@@ -1,0 +1,9 @@
+enter Nifty T-1 close100
+enter Nifty T-1 close105
+enter Nifty T-1 close110
+Traceback (most recent call last):
+  File "C:\Users\Nitin\nitin\Assignment W01D04_Soln4", line 5, in <module>
+    average = (t1 + t2 + t3)/3
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
+
+***Repl Closed***

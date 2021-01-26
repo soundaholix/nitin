@@ -1,0 +1,16 @@
+print ("This program which calcultates area of a circle.")
+
+
+RadiusC = input("Please input the radius:")
+
+
+
+RadiusC = int(RadiusC)
+
+AreaC = 3.14 * (RadiusC**2)
+
+print (AreaC)
+
+
+
+

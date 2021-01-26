@@ -1,0 +1,8 @@
+name = "I am Nitin"
+namelst = (name.split())
+	
+moving_avg = 14750
+print ("the ma is:  ",float(str((moving_avg))))
+
+
+
