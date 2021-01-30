@@ -1,7 +1,9 @@
 print ("Nitin")
 print ("Nitin", "Tarun")
+print (5)
 print (5.05)
 print (5,5.05)
+print (14560,31300)
 
 
 #one print statement all patterns
